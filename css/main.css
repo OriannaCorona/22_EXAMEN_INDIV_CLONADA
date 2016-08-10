@@ -1,0 +1,180 @@
+/*header*/
+body{
+	background-color: lightgray;
+}
+header{
+	background-color: black;
+	width: 100%;
+}
+.titulo{
+	margin: 2% 1% 1% 57%;
+	font-weight: 400;
+	font-family: FontAwesome;
+}
+.menu{
+	margin: 2% 1% 2% 20%;
+	font-family: helvetica;
+}
+.menrojo{
+	display: inline-block;
+	color: indianred;
+	padding: 0% 1%;
+	font-size: 70%;
+}
+.men{
+	display: inline-block;
+	color: white;
+	padding: 0% 1.5%;
+	font-size: 70%;
+}
+/*section*/
+section{
+	background-color: white;
+	width: 80%;
+	margin-left: 10%;
+}
+.imgciu{
+	width: 78%;
+	height: 30%;
+	margin: 5% 0% 5% 5%;
+}
+.subt{
+	font-family: helvetica;	
+	margin: 10% 0% 5% -36%;
+}
+.textsubt{
+	font-size: 80%;
+	margin: 5% 0% 10% -36%;
+	font-family: helvetica;
+}
+.read{
+	background-color: lightgray;
+	border-radius: 40px 40px;
+	border: none;
+	padding: 2% 4%;
+	width: 40%;
+	margin: 4% 0% 20% -38%;
+}
+.lineauno{
+	text-align: center;	
+	margin: 0% 0% 2% 0%;
+	border: dotted 1px lightgray;
+	width: 101.5%;
+}
+.proyects{
+	font-family: helvetica;	
+	margin: 5% 0% 2% 7%;
+	color: gray;
+}
+.menu2{
+	margin: 1% 1% 2% 6%;
+	font-family: helvetica;
+}
+.mengris{
+	display: inline-block;
+	color: darkgray;
+	padding: 0% 1%;
+	font-size: 70%;
+}
+.menblanc{
+	display: inline-block;
+	color: lightgray;
+	padding: 0% 1%;
+	font-size: 70%;
+	margin: 2% 0% 2% 1%; 
+}
+.imgport{
+	height: 80%;
+	width: 95%;
+	margin: 0% 0% 2% 9%;
+}
+.titport{
+	margin: 0.7% 0% 1% 8.5%;
+	font-size: 90%;
+}
+.subtiport{
+	margin: 1% 0% 3% 8.5%;
+	font-size: 80%;
+}
+.load{
+	background-color: black;
+	border-radius: 40px 40px;
+	border: none;
+	padding: 1.5% 5%;
+	margin: 4% 0% 7% 44%;
+}
+.twittergrande{
+	width: 50%;
+	height: 50%;
+	margin-left: 20%;
+}
+.textoliga{
+	font-family: FontAwesome;
+	font-size: 100%;
+	text-align: left;
+	margin: 2% 0% 1% 10%;
+}
+.linkrojo{
+	font-family: FontAwesome;
+	font-size: 100%;
+	color: indianred;
+	text-decoration: none;
+}
+.top{
+	background-color: gray;
+	border-radius: 100%;
+	border: none;
+	padding: 2.5% 2%;
+	margin: 0% 0% 1% 105%;
+	opacity: 0.5;
+}
+/*footer*/
+footer{
+	background-color: black;
+	width: 132.5%;
+	margin-left: -20%;
+}
+.titfoot{
+	margin: 4.5% 1% 1% 105%;
+	font-weight: 400;
+	font-family: FontAwesome;
+	font-size: 140%
+}
+.textfooter{
+	font-family: courier new;
+	font-size: 70%;
+	margin: 2% 1% 1% 15%;
+}
+.rojoweb{
+	font-family: courier new;
+	font-size: 70%;
+	color: indianred;
+	margin: 3% 1% 1% 0%;
+}
+.blancweb{
+	font-family: courier new;
+	font-size: 60%;
+	margin: 0.5% 1% 1% 0%;
+}
+.iconosredes{
+	margin-left: 102%;
+}
+.redes{
+	border: dashed 1px gray;
+	padding: 1%;
+	border-radius: 100%;
+	width: 18px;
+	display: inline;
+}
+.linea3{
+	text-align: center;	
+	margin: 3% 0% 2% 0%;
+	border: solid 1px lightgray;
+	width: 101.5%;
+}
+.clients{
+
+}
+
+
+
